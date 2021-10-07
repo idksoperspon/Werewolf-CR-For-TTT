@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vgui/TTT/sprite_werewolf"
+	"$nocull" 1
+    "$ignorez" 1
+    "$nodecal" 1
+    "$nolod" 1
+    "$vertexcolor" 1
+    "$vertexalpha" 1
+	"$translucent" 1
+}
